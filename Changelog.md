@@ -6,7 +6,7 @@ Improved fast loading.
 
 Still it can fails on injection some times but as it happens in the original one.
 
-Important!!: Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. When you change the settings, set a new name for the Wifi SSID, and set a new password. Then save and restart the chip. When you scan networks again Nintendo Switch will still show the old Wifi SSID. Be careful to select the right one.
+Important!!: Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. I recommend not to set password while issue is fixed. If you already setup a password you have to reflash the firmware again to clean it.
 
 # Release 0.9b
 
