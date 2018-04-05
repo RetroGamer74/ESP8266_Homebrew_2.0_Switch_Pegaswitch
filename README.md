@@ -54,7 +54,7 @@ https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
 Important Notes
 ===============
 
-Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. When you change the settings, set a new name for the Wifi SSID, and set a new password. Then save and restart the chip. When you scan networks again Nintendo Switch will still show the old Wifi SSID. Be careful to select the right one.
+Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. I recommend not to set password while issue is fixed.
 
 
 
