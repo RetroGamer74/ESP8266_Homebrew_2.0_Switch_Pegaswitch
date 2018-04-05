@@ -54,7 +54,7 @@ https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v3.0
 Important Notes
 ===============
 
-Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. I recommend not to set password while issue is fixed.
+Nintendo Switch looks to be some issue when password is enabled in Wifi ESP8266 chip. I recommend not to set password while issue is fixed. If you already setup a password you have to reflash the firmware again to clean it.
 
 
 
