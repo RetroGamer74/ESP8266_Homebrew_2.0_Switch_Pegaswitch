@@ -1,4 +1,4 @@
-# ESP8266_Homebrew_2.0_Switch_Pegaswitch
+# Inject Homebrew 2.0 & Pegaswitch for Switch 3.0.0 using ESP8266 CHIP
 
 This is a firmware to be used to flash ESP8266 chip.
 
